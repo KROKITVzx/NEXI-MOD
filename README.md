@@ -1,3 +1,3 @@
 # NEXI-MOD
 NEXI MOD FROM VENGE.IO
-Этот мод я посвятил моду https://github.com/Next-Client/Releases разработка которой заончилось и обновлений к сожалению не будет но зато есть этот мод который возврашает ностальгию [текстуры стен делал я] текстуры оружия взяты из
+I dedicated this mod to the mod https://github.com/Next-Client/Releases the development of which has ended and unfortunately there will be no updates, but there is this mod that brings back nostalgia [I made the wall textures] weapon textures are taken from
