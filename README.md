@@ -8,5 +8,5 @@ THE IN-GAME IMage:
 [![image](https://github.com/KROKITVzx/NEXI-MOD/assets/155387562/b874dcde-1198-4883-a6e5-c76d042fee55)]
 [![image](https://github.com/KROKITVzx/NEXI-MOD/assets/155387562/7e6aaf9b-0258-4de7-aba6-7ad24177437d)]
 [![image](https://github.com/KROKITVzx/NEXI-MOD/assets/155387562/c1ce7030-00d8-4c12-ad66-044e0b149e16)]
-![image](https://github.com/KROKITVzx/NEXI-MOD/assets/155387562/fe80eebd-d853-41fd-aa30-8c3095cbaf6e)
+
 [![image](https://github.com/KROKITVzx/NEXI-MOD/assets/155387562/8cad9f9a-0d39-409f-b874-95e3ca950b3b)]
